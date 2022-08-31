@@ -1,0 +1,41 @@
+storico asset (prezzi e volumi) 
+creazione serie di indicatori tecnici
+addestramento di reti singole con variazione struttura e iperparametri, manualmente e tramite algoritmo evolutivo
+reti combinate e merge delle reti in settaggio determinato da algoritmo evolutivo
+
+-indicatori di trend (media mobile prezzi)
+-indicatori di volume (media mobile volumi)
+-indicatori di momentum (rsi)
+-indicatori di volatilità (volatilità)
+
+*aggiungi indicatori...
+
+osserva rendimento al variare della dimensione del dataset
+
+crea unico oggetto e testa su diversi asset e in diverse modalità
+
+caratteristiche:
+
+-variando la soglia vari il rapporto tra la frequenza dell'indicatore e l'efficacia
+
+-addestrabile su ogni storico
+
+-seleziona numero di reti partecipanti
+
+-seleziona parametri reti (epoche e batch)
+
+AGGIUNGI ANALISI PATTERN GRAFICI
+
+INTEGRA SU METATRADER
+
+INTEGRAZIONE MULTIPLA SUL FOREX :
+
+    L'OBIETTIVO  GARANTIRE OPERATIVITà ALMENO SU OGNI CANDELA SU TIMEFRAME 4H, SEGUENDO I SEGUENTI PRINCIPI:
+
+         ADDESTRA SU TUTTE LE COPPIE FOREX E SETTA PER OGNI COPPIA
+
+         SELEZIONA TUTTE LE RETI CON OUTPUT SOPRA UNA CERTA SOGLIA
+
+         AGGIUNGI EVENTUALMENTE STRATEGIA IN BASE ALL'RSI
+
+         VARIA STRATEGIA DI INGRESSO E USCITA (SL, TP ECC...)
