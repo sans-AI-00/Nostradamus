@@ -1,0 +1,10 @@
+TODO: 1) effettua ottimizzazione iperparametri e osserva risultato randomforest e svm
+      2) crea nuovi indicatori ed effettua analisi caratteristiche predominanti
+      4) testa con previsione a diversi periodi
+      5) prova a cambiare forma output
+      
+TODO GENERALE: 1) crea libreria di indicatori tecnici
+               2) integra la libreria con l'API di metatrader 
+               3) crea algoritmi evolutivi per la selezione della migliore strategia (varia gli indicatori utilizzati)
+               4) integra nella libreria anche rilevatori di figure 
+               5) eventualemnte utilizza modello come indicatore ed integra in altre strategie 
